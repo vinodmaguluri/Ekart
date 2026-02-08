@@ -11,7 +11,7 @@ import Success from "./pages/Success";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Ekart">
       <CartProvider>
         <Header />
         <Routes>
