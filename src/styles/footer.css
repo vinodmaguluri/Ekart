@@ -1,0 +1,18 @@
+.ek-footer{
+  background:#172337;
+  color:#fff;
+  margin-top:24px;
+}
+.ek-footer-inner{
+  max-width:1100px;
+  margin:0 auto;
+  padding:18px 14px;
+  display:flex;
+  justify-content:space-between;
+  gap:20px;
+  align-items:center;
+  flex-wrap:wrap;
+}
+.ek-footer-title{font-weight:900;font-size:18px}
+.ek-footer-sub{opacity:0.9;margin-top:4px}
+.ek-footer-note{opacity:0.9}
